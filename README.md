@@ -23,7 +23,7 @@
   <a href="https://instagram.com/g.gabriel_10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href = "mailto:ggabriel.medeiros@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovanni-medeiros-382806192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://curriculum-gm-dev.netlify.app/#conteudo" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/5202/5202822.png" target="_blank"></a> 
+ 
   
   ![Snake animation](https://github.com/ggabriel-10/ggabriel-10/blob/output/github-contribution-grid-snake.svg)
 </div>
